@@ -1,0 +1,14 @@
+# ReadFluently — Python server dependencies
+# Install together with: python -m pip install -r requirements.txt
+
+# Speech recognition engine. Install normal dependencies (do not use --no-deps).
+faster-whisper>=1.0.0
+
+# Explicit runtime dependencies:
+# faster-whisper imports PyAV (av) unconditionally; VAD requires onnxruntime.
+av>=11.0
+onnxruntime>=1.14.0,<2
+
+# Server and numerical audio processing
+websockets>=11.0
+numpy>=1.24.0
