@@ -2,7 +2,7 @@
 ### Interactive Reading Speed Trainer & Fluency App for Children
 #### *Disponible en Français 🇫🇷 et en Anglais 🇬🇧*
 
-**ReadFluently** is an interactive web application designed to help children build reading confidence, improve reading speed (WPM / MPM), and develop reading comprehension through real-time speech recognition, playful visual pacing, and engaging feedback.
+**ReadFluently** is an interactive web application designed with the help of Google Gemini to help children build reading confidence, improve reading speed (WPM / MPM), and develop reading comprehension through real-time speech recognition, playful visual pacing, and engaging feedback.
 
 ---
 
