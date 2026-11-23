@@ -95,3 +95,5 @@ Then navigate to: **`http://localhost:8080`**
 
 ### Option 3: Direct Browser Launch
 Open `index.html` directly in **Google Chrome** or **Microsoft Edge** (browsers that support the Web Speech API).
+
+##
